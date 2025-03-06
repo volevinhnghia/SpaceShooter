@@ -41,7 +41,7 @@ public class PowerUp : MonoBehaviour
                         player.setTriggerTripleShot(true);
                         break;
                     case 1:
-                        player.setTriggerSpeedBuff(true, 5.0f);
+                        player.setTriggerSpeedBuff(true, 2.0f);
                         break;
                     case 2:
                         player.setTriggerShield(true);
